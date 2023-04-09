@@ -1,3 +1,3 @@
-module github.com/eapache/queue
+module github.com/amirvalhalla/queue
 
 go 1.2
